@@ -1,6 +1,6 @@
 ### Starting date 
 
-|<b>03 April 2023</b
+|<b>03 April 2023</b>
 |--- 
 
 Time
